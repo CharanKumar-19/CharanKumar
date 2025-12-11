@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Charan Kumar  
 <hr style="border: 1px solid #444;">
 
-A passionate Developer from India 🇮🇳
+<p align="center">
+  <strong>A passionate Developer from India 🇮🇳</strong>
+</p>
+
 
 <p align="center">
   <img src="https://github.com/CharanKumar-19/CharanKumar/blob/cda5d7f4a3570158fdb76b169ffbb06caea2198e/profile.gif?raw=true" width="400" alt="Profile Illustration"/>
@@ -28,11 +31,7 @@ A passionate Developer from India 🇮🇳
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
 
-<!-- Mobile Number -->
-<a href="tel:9398226616" style="margin-left: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/phone.svg" width="36" />
-</a>
-<span style="font-size: 16px; margin-left: 6px;">9398226616</span>
+
 
 </p>
 
